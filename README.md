@@ -2,7 +2,7 @@
 
 ![GitHubBanner](https://github.com/xRiveria/xRiveria/assets/50167924/243305aa-639a-42bc-a3f2-3ebbf8749ca2)
 
-I’m **Ryan Tan**, a software engineer from **Singapore**. I’ve worked across game development, backend engineering, DevOps, and AI/ML. In my spare time, I like experimenting with new technology seeing where they can apply in my life! 
+I’m **Ryan Tan**, a software engineer from **Singapore**. I’ve worked across game development, backend engineering, DevOps, and AI/ML. In my spare time, I like tinkering with new technologies on the frontier of innovation and seeing where they can apply in my everyday life! 
 
 Work aside, I love exercising and keeping up with the latest television dramas. **It’s all about keeping the mind sharp and the heart light!** 😍
 
